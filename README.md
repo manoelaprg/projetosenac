@@ -13,3 +13,6 @@ Contexto:
 - MySQL
 - HTML
 - CSS
+
+## Desenvolvedores
+- Manoela Pereira
